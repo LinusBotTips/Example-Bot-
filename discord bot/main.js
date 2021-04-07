@@ -1,7 +1,7 @@
 const fs = require('fs');
 const Discord = require('discord.js');
 const config = require('./config.json')
-const prefix = "PREFIX GO HERE POOP EATER"
+const prefix = "PREFIX GO HERE"
 const client = new Discord.Client();
 client.commands = new Discord.Collection();
 
